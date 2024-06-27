@@ -138,5 +138,11 @@
   "/.deco/blocks/Header.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Header/Header.tsx"
+  },
+  "/.deco/blocks/pages-Quem%2520Somos-874121.json": {
+    "name": "Quem Somos",
+    "path": "/quem-somos",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
