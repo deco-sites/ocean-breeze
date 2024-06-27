@@ -30,6 +30,12 @@
       "alignment": "Center",
       "subheading": "Nossas roupas leves e elegantes são feitas com materiais sustentáveis, perfeitas para momentos de relaxamento ou ocasiões especiais. Os acessórios exclusivos combinam a rusticidade da natureza com o design moderno, realçando sua beleza única. Nossos utensílios e itens de decoração trazem um toque de sofisticação rústica para seu lar, enquanto nossa seleção de comidas artesanais oferece os sabores autênticos e frescos do litoral. Descubra o equilíbrio perfeito entre conforto, estilo e sustentabilidade em cada detalhe.",
       "text": "Na Ocean Breeze Boutique, cada produto é uma celebração do estilo de vida praiano."
+    },
+    {
+      "__resolveType": "site/sections/Product/Coupon.tsx",
+      "text": "10% de desconto",
+      "code": "Gaudencio10",
+      "description": "No uso do código, ganhe 10% de desconto!"
     }
   ],
   "seo": {
