@@ -1,13 +1,14 @@
 {
   "seo": {
     "type": "website",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/a5d890ba-e5b8-471e-8b77-7412c1d4fa56",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/9e704fd4-7794-4b91-8f34-2665d1157a2b",
     "title": "Storefront",
     "jsonLDs": [],
     "noIndexing": false,
-    "description": "Improve your page performance with deco.cx ",
-    "titleTemplate": "%s | deco.cx",
-    "descriptionTemplate": "%s | Deco.cx"
+    "titleTemplate": "%s | Ocean Breeze Boutique",
+    "descriptionTemplate": "%s | Ocean Breeze Boutique",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/346860a0-c25e-4d99-b703-9ad4ba09ea1d",
+    "description": "Bem-vindo à Ocean Breeze Boutique, seu destino definitivo para um estilo de vida praiano refinado! Localizada no coração da nossa encantadora cidade litorânea, nossa loja é um oásis de sofisticação rústica, onde a natureza se encontra com o luxo moderno."
   },
   "theme": {
     "__resolveType": "Deco"
