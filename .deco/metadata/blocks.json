@@ -144,5 +144,13 @@
     "path": "/quem-somos",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/Preview%20site%2Fsections%2FContent%2FHero.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Content/Hero.tsx"
+  },
+  "/.deco/blocks/Ocean%20Breeze%20Boutique%20Theme.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Theme/Theme.tsx"
   }
 }

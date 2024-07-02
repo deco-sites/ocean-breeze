@@ -19,8 +19,8 @@
         {
           "href": "https://www.instagram.com/gabrielmax.vm/",
           "text": "Conheça nossa rede",
-          "variant": "Reverse",
-          "id": "instagram"
+          "id": "instagram",
+          "variant": "Reverse"
         }
       ],
       "placement": "right"

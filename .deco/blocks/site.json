@@ -11,7 +11,7 @@
     "description": "Bem-vindo à Ocean Breeze Boutique, seu destino definitivo para um estilo de vida praiano refinado! Localizada no coração da nossa encantadora cidade litorânea, nossa loja é um oásis de sofisticação rústica, onde a natureza se encontra com o luxo moderno."
   },
   "theme": {
-    "__resolveType": "Deco"
+    "__resolveType": "Ocean Breeze Boutique Theme"
   },
   "global": [
     {
