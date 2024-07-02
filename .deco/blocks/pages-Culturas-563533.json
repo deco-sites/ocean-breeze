@@ -1,0 +1,109 @@
+{
+  "name": "Culturas",
+  "path": "/culturas",
+  "sections": [
+    {
+      "__resolveType": "Header Ocean Breeze Boutique"
+    },
+    {
+      "__resolveType": "site/sections/Images/Carousel.tsx",
+      "images": [
+        {
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/a762bcd7-dcfd-4ad3-be0f-5f107ed598fb",
+          "alt": "Moda Praia Feminina",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/4139d26a-8261-401d-91b4-bb71c511d048"
+        },
+        {
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/16d01af7-958d-41be-b101-ffc6849e1df6",
+          "alt": "Moda Praia 02",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/b3ebb31a-def4-4555-a567-3172bfc343f8"
+        },
+        {
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/b8ff3b5c-38e7-4324-80cb-a1b907753793",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/060bc936-3c1e-4ee8-a195-20704d425db1",
+          "alt": "Moda Praia Masculina"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Lugar.tsx",
+      "temperature": {
+        "__resolveType": "weather/loaders/temperature.ts",
+        "lat": -3.71839,
+        "long": -38.5434
+      },
+      "text": "Com a Temperatura de ",
+      "subheading": "nem Fortaleza consegue ser mais quente que nossos produtos!",
+      "alignment": "Right"
+    },
+    {
+      "__resolveType": "site/sections/Images/ShoppableBanner.tsx",
+      "link": {
+        "href": "/destaques",
+        "text": "Explore nossa coleção",
+        "layout": {
+          "position": "justify-center"
+        }
+      },
+      "pins": [
+        {
+          "link": "/acessorios",
+          "label": "Acessórios",
+          "mobile": {
+            "x": 60,
+            "y": 3
+          },
+          "desktop": {
+            "x": 10,
+            "y": 50
+          }
+        },
+        {
+          "mobile": {
+            "x": 25,
+            "y": 30
+          },
+          "desktop": {
+            "x": 55,
+            "y": 35
+          },
+          "link": "/roupas",
+          "label": "Roupas"
+        },
+        {
+          "mobile": {
+            "x": 65,
+            "y": 70
+          },
+          "link": "/roupas-banho",
+          "label": "Roupas de Banho",
+          "desktop": {
+            "x": 30,
+            "y": 75
+          }
+        }
+      ],
+      "text": {
+        "layout": {
+          "position": "text-center"
+        },
+        "content": "Encontre o que há de melhor para seu verão."
+      },
+      "image": {
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/211aa114-dcd5-4290-abf3-f00231f76953",
+        "altText": "Imagem Moda Praia",
+        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/ee091265-88c1-4a29-ba70-2eb043e0bce8"
+      },
+      "title": {
+        "layout": {
+          "position": "justify-center"
+        },
+        "content": "Coleção de Verão"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

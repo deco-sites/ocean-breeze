@@ -152,5 +152,35 @@
   "/.deco/blocks/Ocean%20Breeze%20Boutique%20Theme.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Theme/Theme.tsx"
+  },
+  "/.deco/blocks/pages-Culturas-563533.json": {
+    "name": "Culturas",
+    "path": "/culturas",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/deco-weather.json": {
+    "blockType": "apps",
+    "__resolveType": "site/apps/deco/weather.ts"
+  },
+  "/.deco/blocks/Preview%20weather%2Floaders%2Ftemperature.ts.json": {
+    "blockType": "loaders",
+    "__resolveType": "weather/loaders/temperature.ts"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FContent%2FIntro.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Content/Intro.tsx"
+  },
+  "/.deco/blocks/Lugar.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Content/Intro.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FLugar.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Lugar.tsx"
+  },
+  "/.deco/blocks/Header%20Ocean%20Breeze%20Boutique.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Header/Header.tsx"
   }
 }

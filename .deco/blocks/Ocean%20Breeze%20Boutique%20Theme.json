@@ -46,5 +46,6 @@
       }
     ]
   },
-  "colorScheme": "any"
+  "colorScheme": "any",
+  "mode": "dark"
 }

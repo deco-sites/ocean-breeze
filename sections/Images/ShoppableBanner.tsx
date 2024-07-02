@@ -126,11 +126,11 @@ export default function ShoppableBanner(props: Props) {
             </>
           ))}
         </figure>
-        <div class="flex flex-col justify-center gap-6 py-20 px-8 bg-neutral-content">
+        <div class="flex flex-col justify-center gap-6 py-20 px-8 bg-neutral-content text-base-100">
           <h2 class={`card-title flex ${title?.layout?.position}`}>
             {title?.content}
           </h2>
-          <p class={`text-base-content ${text?.layout?.position}`}>
+          <p class={`${text?.layout?.position}`}>
             {text?.content}
           </p>
           <div class={`card-actions ${link?.layout?.position}`}>

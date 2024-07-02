@@ -1,0 +1,34 @@
+{
+  "__resolveType": "site/sections/Header/Header.tsx",
+  "searchbar": {
+    "placeholder": "O que você procura?",
+    "loader": {
+      "__resolveType": "resolved",
+      "data": null
+    }
+  },
+  "alerts": [
+    "<p>Ganhe 10% de desconto hoje: <strong>GAUDENCIO12</strong></p>"
+  ],
+  "variant": "initial",
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10969/9fdd32cd-2940-471d-be8c-a4175af84940",
+    "alt": "Deco Storefront",
+    "width": 160,
+    "height": 40
+  },
+  "navItems": [
+    {
+      "children": [],
+      "image": [],
+      "name": "Quem somos",
+      "url": "/quem-somos"
+    },
+    {
+      "children": [],
+      "image": [],
+      "name": "Culturas",
+      "url": "/culturas"
+    }
+  ]
+}

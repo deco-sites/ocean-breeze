@@ -11,6 +11,9 @@
       "descriptionTemplate": "Bem-vindo à Ocean Breeze Boutique, seu destino definitivo para um estilo de vida praiano refinado! Localizada no coração da nossa encantadora cidade litorânea, nossa loja é um oásis de sofisticação rústica, onde a natureza se encontra com o luxo moderno."
     },
     {
+      "__resolveType": "Header Ocean Breeze Boutique"
+    },
+    {
       "__resolveType": "site/sections/Content/Hero.tsx",
       "title": "<p>Ocean Breeze Boutique</p>",
       "description": "Bem-vindo à Ocean Breeze Boutique, seu destino definitivo para um estilo de vida praiano refinado! Localizada no coração da nossa encantadora cidade litorânea, nossa loja é um oásis de sofisticação rústica, onde a natureza se encontra com o luxo moderno.",

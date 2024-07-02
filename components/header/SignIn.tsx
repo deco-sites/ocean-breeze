@@ -38,7 +38,7 @@ function SignIn({ variant }: { variant: "mobile" | "desktop" }) {
         aria-label="Login"
       >
         <Icon id="account_circle" />
-        {variant === "desktop" && <span>Sign in</span>}
+        {variant === "desktop" && <span>Login</span>}
       </a>
       <a
         class={clx(
