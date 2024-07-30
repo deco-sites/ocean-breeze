@@ -88,7 +88,7 @@ const Desktop = (
         >
           <Icon id="search" />
           <span class="text-base-300 truncate">
-            Search products, brands...
+            Pesquise produtos, marcas...
           </span>
         </label>
 

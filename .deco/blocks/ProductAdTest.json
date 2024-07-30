@@ -1,0 +1,15 @@
+{
+  "__resolveType": "site/sections/Product/ProductAd.tsx",
+  "product": {
+    "title": "Test Product",
+    "description": "Product for test",
+    "price": "220",
+    "imageSrc": "https://img.freepik.com/free-photo/beach-skincare-product-still-life_23-2150167959.jpg"
+  },
+  "title": "Teste",
+  "description": "abc",
+  "price": "220",
+  "imageSrc": "https://img.freepik.com/free-photo/beach-skincare-product-still-life_23-2150167959.jpg",
+  "display": "Mobile",
+  "adDescription": "Description for test too"
+}

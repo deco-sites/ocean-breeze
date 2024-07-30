@@ -171,10 +171,6 @@
     "blockType": "sections",
     "__resolveType": "site/sections/Content/Intro.tsx"
   },
-  "/.deco/blocks/Lugar.json": {
-    "blockType": "sections",
-    "__resolveType": "site/sections/Content/Intro.tsx"
-  },
   "/.deco/blocks/Preview%20%2Fsections%2FLugar.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Lugar.tsx"
@@ -182,5 +178,13 @@
   "/.deco/blocks/Header%20Ocean%20Breeze%20Boutique.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Header/Header.tsx"
+  },
+  "/.deco/blocks/ProductShelfTest.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Product/ProductShelf.tsx"
+  },
+  "/.deco/blocks/ProductAdTest.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Product/ProductAd.tsx"
   }
 }

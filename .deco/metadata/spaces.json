@@ -1856,7 +1856,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 41.66666666666667,
+                "width": 28.802816901408452,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1878,7 +1878,7 @@
               },
               {
                 "type": "stack",
-                "width": 58.333333333333336,
+                "width": 71.19718309859155,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1917,7 +1917,8 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-Quem%252520Somos-874121.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null
+            "__signal": null,
+            "value": null
           }
         },
         "%2F.deco%2Fblocks%2Fpages-Quem%252520Somos-874121.json::Preview::visibility::Preview::%7B%7D": {
@@ -3082,7 +3083,8 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2FLugar.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null
+            "__signal": null,
+            "value": null
           }
         },
         "%2F.deco%2Fblocks%2FLugar.json::Preview::visibility::Preview::%7B%7D": {
@@ -3322,7 +3324,8 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2FHeader%2520Ocean%2520Breeze%2520Boutique.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null
+            "__signal": null,
+            "value": null
           }
         },
         "%2F.deco%2Fblocks%2FHeader%2520Ocean%2520Breeze%2520Boutique.json::Preview::visibility::Preview::%7B%7D": {

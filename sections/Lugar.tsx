@@ -4,7 +4,7 @@ export interface LugarProps {
   text: string;
   subheading?: string;
   alignment: "Left" | "Center" | "Right";
-  temperature?: Temperature | null
+  temperature?: Temperature | null;
 }
 
 const ALIGNMENT_TEXT = {
@@ -19,7 +19,7 @@ export default function Lugar(
       "Lorem ipsum dolor sit amet consectetur. Placerat ornare diam nulla fringilla gravida justo elementum. Ut sed in.",
     subheading,
     alignment = "Left",
-    temperature
+    temperature,
   }: LugarProps,
 ) {
   return (
@@ -29,7 +29,7 @@ export default function Lugar(
           class={`flex flex-col gap-6 ${ALIGNMENT_TEXT[alignment ?? "Left"]}`}
         >
           <h1 class="font-bold text-base-content text-[40px] leading-[120%]">
-            {text} {temperature ? temperature.celsius : ''}ºC,
+            {text} {temperature ? temperature.celsius : ""}ºC,
           </h1>
           {subheading && (
             <p class="text-base-content text-[18px]">{subheading}</p>
