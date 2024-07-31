@@ -947,16 +947,6 @@
           "state": {
             "__signal": null
           }
-        },
-        "settings::domains::adjustments-horizontal::domains::%7B%7D": {
-          "name": "domains",
-          "icon": "adjustments-horizontal",
-          "render": "function",
-          "viewId": "domains",
-          "id": "settings::domains::adjustments-horizontal::domains::%7B%7D",
-          "state": {
-            "__signal": null
-          }
         }
       },
       "category": "Management"
@@ -1892,7 +1882,6 @@
                     "componentState": {
                       "id": "%2F.deco%2Fblocks%2Fpages-Quem%252520Somos-874121.json::Preview::visibility::Preview::%7B%7D"
                     },
-                    "width": 70,
                     "isClosable": true,
                     "reorderEnabled": true
                   }
